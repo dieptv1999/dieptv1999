@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.techlens.tech/](https://www.techlens.tech/)
 
-- 📝 I regularly write articles on [https://www.techlens.tech/blog](https://www.techlens.tech/blog)
+- 📝 I regularly write articles on [https://www.techlens.tech/articles/](https://www.techlens.tech/articles/)
 
 - 💬 Ask me about **ReactJS, Nextjs, TypeScript, Javascript, HTML, CSS, Golang**
 
