@@ -42,6 +42,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dieptv1999&" alt="dieptv1999" /></p>
 
 # SQL NOTE
+```sql
 CREATE OR REPLACE FUNCTION `remove_accents`(`str` TEXT)
     RETURNS text
     LANGUAGE SQL
@@ -173,3 +174,4 @@ BEGIN
 
     RETURN str;
 END;
+```
