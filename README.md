@@ -43,8 +43,8 @@
 
 # SQL NOTE
 ```sql
-CREATE OR REPLACE FUNCTION `remove_accents`(`str` TEXT)
-    RETURNS text
+CREATE OR REPLACE FUNCTION `remove_accents`(`str` TEXT CHARACTER SET utf8mb4 collate utf8mb4_unicode_ci )
+    RETURNS text CHARACTER SET utf8mb4 collate utf8mb4_unicode_ci
     LANGUAGE SQL
     DETERMINISTIC
     NO SQL
@@ -77,6 +77,7 @@ BEGIN
     SET str = REPLACE(str, 'È', 'E');
     SET str = REPLACE(str, 'É', 'E');
     SET str = REPLACE(str, 'Ẹ', 'E');
+    SET str = REPLACE(str, 'Ẻ', 'E');
     SET str = REPLACE(str, 'Ê', 'E');
     SET str = REPLACE(str, 'Ệ', 'E');
     SET str = REPLACE(str, 'Ề', 'E');
@@ -107,6 +108,11 @@ BEGIN
     SET str = REPLACE(str, 'Ú', 'U');
     SET str = REPLACE(str, 'Ụ', 'U');
     SET str = REPLACE(str, 'Ư', 'U');
+    SET str = REPLACE(str, 'Ứ', 'U');
+    SET str = REPLACE(str, 'Ừ', 'U');
+    SET str = REPLACE(str, 'Ự', 'U');
+    SET str = REPLACE(str, 'Ử', 'U');
+    SET str = REPLACE(str, 'Ữ', 'U');
     SET str = REPLACE(str, 'Û', 'U');
     SET str = REPLACE(str, 'Ü', 'U');
     SET str = REPLACE(str, 'Ý', 'Y');
@@ -132,6 +138,7 @@ BEGIN
     SET str = REPLACE(str, 'è', 'e');
     SET str = REPLACE(str, 'é', 'e');
     SET str = REPLACE(str, 'ẹ', 'e');
+    SET str = REPLACE(str, 'ẻ', 'e');
     SET str = REPLACE(str, 'ê', 'e');
     SET str = REPLACE(str, 'ệ', 'e');
     SET str = REPLACE(str, 'ề', 'e');
@@ -163,6 +170,11 @@ BEGIN
     SET str = REPLACE(str, 'ú', 'u');
     SET str = REPLACE(str, 'ụ', 'u');
     SET str = REPLACE(str, 'ư', 'u');
+    SET str = REPLACE(str, 'ứ', 'u');
+    SET str = REPLACE(str, 'ừ', 'u');
+    SET str = REPLACE(str, 'ự', 'u');
+    SET str = REPLACE(str, 'ử', 'u');
+    SET str = REPLACE(str, 'ữ', 'u');
     SET str = REPLACE(str, 'û', 'u');
     SET str = REPLACE(str, 'ý', 'y');
     SET str = REPLACE(str, 'ý', 'y');
@@ -173,5 +185,5 @@ BEGIN
 
 
     RETURN str;
-END;
+END
 ```
