@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TRAN VAN DIEP (techlens.tech)</h1>
+<h1 align="center">Hi 👋, I'm TRAN VAN DIEP (tecklens.com)</h1>
 <h3 align="center">A passionate web/mobile developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dieptv1999&label=Profile%20views&color=0e75b6&style=flat" alt="dieptv1999" /> </p>
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently working as a Full stack developer
 
-- 👨‍💻 All of my projects are available at [https://www.techlens.tech/](https://www.techlens.tech/)
+- 👨‍💻 All of my projects are available at [https://www.tecklens.com/](https://www.techlens.tech/)
 
-- 📝 I regularly write articles on [https://www.techlens.tech/articles/](https://www.techlens.tech/articles/)
+- 📝 I regularly write articles on [https://www.tecklens.com/articles/](https://www.techlens.tech/articles/)
 
 - 💬 Ask me about **ReactJS, Nextjs, TypeScript, Javascript, HTML, CSS, Golang**
 
