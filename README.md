@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDb&color=ffffff&logo=MongoDb&logoColor=47A248&label="  height="32 alt="MongoDB logo" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dieptv1999" alt="trunghieu99tt" /></a> </p>
-
 - 🌱 I’m currently working as a Full stack developer
 
 - 👨‍💻 All of my projects are available at [https://www.tecklens.com/](https://www.techlens.tech/)
