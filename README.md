@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently working as a Full stack developer
 
-- 👨‍💻 All of my projects are available at [https://www.tecklens.com/](https://www.techlens.tech/)
+- 👨‍💻 All of my projects are available at [https://profile.tecklens.com/](https://profile.tecklens.com/)
 
-- 📝 I regularly write articles on [https://www.tecklens.com/articles/](https://www.techlens.tech/articles/)
+- 📝 I regularly write articles on [https://www.profile.tecklens.com/articles/](https://www.profile.techlens.tech/articles/)
 
 - 💬 Ask me about **ReactJS, Nextjs, TypeScript, Javascript, HTML, CSS, Golang**
 
@@ -30,8 +30,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/techlens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikikudo" height="30" width="40" /></a>
-<a href="https://www.facebook.com/diep.tv99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rikikudo99" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/techlens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dieptv1999" height="30" width="40" /></a>
+<a href="https://www.facebook.com/diep.tv99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dieptv1999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
