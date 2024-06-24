@@ -19,6 +19,7 @@
 </p>
 
 - 🌱 I’m currently working as a Full stack developer
+- 👨‍💻 Build in public [https://wolfx.app]([https://profile.tecklens.com/](https://wolfx.app))
 
 - 👨‍💻 All of my projects are available at [https://profile.tecklens.com/](https://profile.tecklens.com/)
 
