@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [https://www.profile.tecklens.com/articles/](https://www.profile.techlens.tech/articles/)
 
-- 💬 Ask me about **ReactJS, Nextjs, TypeScript, Javascript, HTML, CSS, Golang**
+- 💬 Ask me about **Java, Spring boot, ReactJS, Nextjs, Nestjs, TypeScript, Javascript, HTML, CSS, Golang**
 
 - 📫 How to reach me **techlensglobal@gmail.com**
 
