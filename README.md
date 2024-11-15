@@ -21,9 +21,9 @@
 - 🌱 I’m currently working as a Full stack developer
 - 👨‍💻 Build in public [https://wolfx.app]([https://profile.tecklens.com/](https://wolfx.app))
 
-- 👨‍💻 All of my projects are available at [https://profile.tecklens.com/](https://profile.tecklens.com/)
+- 👨‍💻 All of my projects are available at [https://me.tecklens.com/](https://me.tecklens.com/)
 
-- 📝 I regularly write articles on [https://www.profile.tecklens.com/articles/](https://www.profile.techlens.tech/articles/)
+- 📝 I regularly write articles on [https://me.tecklens.com/blog/](https://me.tecklens.com/blog/)
 
 - 💬 Ask me about **Java, Spring boot, ReactJS, Nextjs, Nestjs, TypeScript, Javascript, HTML, CSS, Golang**
 
