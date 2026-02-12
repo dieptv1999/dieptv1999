@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Java, Spring boot, ReactJS, Nextjs, Nestjs, TypeScript, Javascript, HTML, CSS, Golang**
 
-- 📫 How to reach me **techlensglobal@gmail.com**
+- 📫 How to reach me **tecklens.wolf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
